@@ -3,10 +3,17 @@
     "resize",
     "iphone"
   ],
-  "transitions": "fade",
+  "transitions": "slide",
   "title": "#yegrb - groovy talk",
   "slides": [
     "welcome.html",
-    "tldr.html"
+    "tldr.html",
+    "but_first.html",
+    "basic_syntax.html",
+    "closures.html",
+    "builders.html",
+    "filler.html",
+    "other_projects.html",
+    "credits.html"
   ]
 }
