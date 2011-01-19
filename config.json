@@ -4,7 +4,7 @@
     "iphone"
   ],
   "transitions": "slide",
-  "title": "#yegrb - groovy talk",
+  "title": "yegrb-groovy-talk",
   "slides": [
     "welcome.html",
     "tldr.html",
