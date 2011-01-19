@@ -1,6 +1,12 @@
 {
-  "slides":       ["welcome.html"],
-  "title":        "Your presentation",
-  "plugins":      ["resize", "iphone"],
-  "transitions":  "fade"
+  "plugins": [
+    "resize",
+    "iphone"
+  ],
+  "transitions": "fade",
+  "title": "#yegrb - groovy talk",
+  "slides": [
+    "welcome.html",
+    "tldr.html"
+  ]
 }
